@@ -1,0 +1,14 @@
+FREE = 0
+OCCUPIED = 1
+ROBOT_RADIUS = 0.5
+NUM_OF_AGENT = 5 #not used
+R = 0
+C = 1
+REGION = 8 #was 4 #must be factor of 32
+BO_INITIAL_SAMPLES = 5#30 #60
+BO_OPT_SAMPLES = 20#20 #40
+CONSTRAIN_PROBLEM = 1 #only consider top 5% edges (in terms of length)
+CBS_MAX_ITER = 100 #500 #1000
+RESOLUTION = 0.5 #resolution cannot be higher than robot diameter
+MAX_SUBGRAPH = 0.5
+STANDARDIZE_EDGE = True

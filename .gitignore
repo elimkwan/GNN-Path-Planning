@@ -1,10 +1,10 @@
-/figure/*
+/figure/
 /environment/__pycache__/
 /core/__pycache__/
 /ExplicitCorridorMap/__pycache__/
 /BayesianOptimisation/__pycache__/
-/BayesianOptimisation/unused/*
-/input/Maps/unused/*
+/BayesianOptimisation/unused/
+/input/Maps/unused/
 /planner/__pycache__/
 /GNN/
 /notebook/
